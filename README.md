@@ -56,7 +56,7 @@ Nothing enterprise-level here — yet. But give it a minute.
 
 ## 📬 Let's Connect
 
-📧 Email: amirjavad.khafaji1@Gmail.com  
+📧 [Email](amirjavad.khafaji1@Gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/amirjkhafaji) 
 
 ---
