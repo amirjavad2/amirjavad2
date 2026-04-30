@@ -40,7 +40,7 @@ Nothing enterprise-level here — yet. But give it a minute.
 
 ## 💼 What I'm Looking For
 
-- ✅ **Paid internship opportunities** where I can learn, build, and contribute  
+- ✅ **internship opportunities** where I can learn, build, and contribute  
 - 🧠 A team that loves tech, good vibes, and solving real problems  
 - 📍Remote or hybrid preferred, but open to options
 
