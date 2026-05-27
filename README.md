@@ -57,7 +57,7 @@ Nothing enterprise-level here — yet. But give it a minute.
 ## 💼 What I'm Looking For
 
 - ✅ **Internship or junior ML/Data role** where I can learn, build, and contribute
-- - 📍 Remote or hybrid preferred, but open to options
+- 📍 Remote or hybrid preferred, but open to options
 - 💰 I care more about learning and doing the job right than about the starting salary
 
 ---
