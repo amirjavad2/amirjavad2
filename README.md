@@ -73,7 +73,7 @@ Nothing enterprise-level here — yet. But give it a minute.
 ## 📬 Let's Connect
 
 - 📧 **Email:** amirjavad.khafaji@gmail.com
-- 🔗 **LinkedIn:** [[Add your link here](https://www.linkedin.com/in/amirjkhafaji/)]
+- 🔗 **LinkedIn:** [[https://www.linkedin.com/in/amirjkhafaji](https://www.linkedin.com/in/amirjkhafaji)]
 - 🐙 **GitHub:** [github.com/amirjavad2](https://github.com/amirjavad2)
 
 ---
