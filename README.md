@@ -23,8 +23,6 @@ I'm building a strong foundation in software development and machine learning wi
 
 ### [DataScienceML](https://github.com/amirjavad2/datascienceml) — All my projects in one place
 
-**Python · pandas · scikit-learn · XGBoost · matplotlib · seaborn**
-
 > *This repo contains everything I'm building as I grow into an ML Engineer. Clean code, documented workflows, and actual results.*
 
 📁 [Browse all my DS/ML work →](https://github.com/amirjavad2/datascienceml)
