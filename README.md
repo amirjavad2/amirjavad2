@@ -70,12 +70,7 @@ Nothing enterprise-level here — yet. But give it a minute.
 
 ## 📬 Let's Connect
 
-- 📧 **Email:** amirjavad.khafaji@gmail.com
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/amirjkhafaji](https://www.linkedin.com/in/amirjkhafaji)
-- 🐙 **GitHub:** [github.com/amirjavad2](https://github.com/amirjavad2)
+- 📧 [**Email**](amirjavad.khafaji@gmail.com)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/amirjkhafaji)
+- 🐙 [**GitHub**](https://github.com/amirjavad2)
 
----
-
-> *"Code like nobody's watching. Unless it's in production. Then maybe double check."*
-
-> *"Hardly work hard — but when I do, it works."*
